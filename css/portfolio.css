@@ -1,0 +1,98 @@
+.container{
+    padding-left: 80px;
+    padding-top: 60px;
+    padding-bottom: 80px;
+    padding-right: 80px;
+    display: flex;
+}
+.leftSide{
+    background-color:rgba(7, 5, 5, 0.829);
+    color: aliceblue;
+}
+.rightSide{
+    background-color:rgba(252, 251, 251, 0.829);
+    
+    
+}
+.profileImage{
+    filter: grayscale(50%);
+    /* filter: contrast(2); */
+    width: 290px;;
+    height:260px;
+}
+h4{
+    font-family:'Calibri', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 8px;
+}
+h2,h5{
+    font-family:'Calibri', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 11px;
+}
+hr{
+    background-color: yellow;
+    height: 5px;
+    border: none
+}
+.leftFields{
+    padding-left: 14px; 
+    
+}
+.p{
+    padding-right: 10px;
+    height: 7px;
+}
+.Nametag{
+    padding-top: 20px;
+    background-color: rgb(241, 241, 12);
+    border-bottom: 80px;
+    padding-left: 36px;
+    padding-bottom: 20px;
+    padding-right: 36px;
+   
+}
+li{
+    height: 24px;
+}
+.aboutMe{
+    padding-left: 14px; 
+}
+.rightSidehr{
+    background-color: rgba(1, 0, 2, 0.712);
+    height: 3px;
+    border: none
+}
+.Education{
+    padding-left: 14px; 
+}
+.rightsideDetails{
+    padding-left: 14px; 
+}
+.contact{
+    display: flex;
+}
+.contactLeft{
+    background-color:yellow;
+    flex: .5;
+    margin-left: -5%;
+
+}
+.contactRight{
+    flex: 3;
+    padding-left: 7px;
+    
+
+}
+.contactP{
+    padding-left: 25px;
+    font-size:small;
+}
+tr{
+    height: 50px;
+}
+td{
+    padding-right: 90px;
+    height: 70px;
+}
+.pclass{
+    height: 4px;
+}
